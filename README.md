@@ -1,5 +1,4 @@
 ![Banner](https://i.postimg.cc/7PzHSvn8/41e5b128-b39a-4ef8-b21b-badc4ae6cb6b.webp)
-
 # 🚗 Vehicle Tax Calculator
 
 This repository contains the code for a **Vehicle Tax Calculator** in Java. 
