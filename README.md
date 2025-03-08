@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/6pm0D6MT/d16ea720-90e9-451f-8384-024dff001d66.webp)
+![Banner](https://i.postimg.cc/tTBC5gdC/d16ea720-90e9-451f-8384-024dff001d66.png)
 
 # 🚗 Vehicle Tax Calculator
 
